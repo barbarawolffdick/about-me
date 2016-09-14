@@ -1,0 +1,22 @@
+body{
+  font-family: helvetica, arial, sans-serif;
+  background-color: #f4f5f9;
+}
+
+h2, h3 {
+  color: #252c41;
+}
+
+h1{
+  color: #f1404b;
+}
+
+p{
+  color: #252c41
+  font-family: 'Martel', serif;
+}
+
+a{
+  color: #f1404b;
+  text-decoration: none;
+}
